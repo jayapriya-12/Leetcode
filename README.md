@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayapriya-12/Leetcode/tree/master/0013-roman-to-integer) |
+| [0443-string-compression](https://github.com/jayapriya-12/Leetcode/tree/master/0443-string-compression) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayapriya-12/Leetcode/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/jayapriya-12/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
