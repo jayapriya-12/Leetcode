@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayapriya-12/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/jayapriya-12/Leetcode/tree/master/0198-house-robber) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Memoization
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/jayapriya-12/Leetcode/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jayapriya-12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/jayapriya-12/Leetcode/tree/master/1512-number-of-good-pairs) |
