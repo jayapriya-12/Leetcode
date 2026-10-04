@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayapriya-12/Leetcode/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jayapriya-12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/jayapriya-12/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jayapriya-12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/jayapriya-12/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 <!---LeetCode Topics End-->
