@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayapriya-12/Leetcode/tree/master/0013-roman-to-integer) |
+| [0394-decode-string](https://github.com/jayapriya-12/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/jayapriya-12/Leetcode/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jayapriya-12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jayapriya-12/Leetcode/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/jayapriya-12/Leetcode/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/jayapriya-12/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
