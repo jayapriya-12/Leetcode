@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jayapriya-12/Leetcode/tree/master/0198-house-robber) |
 | [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jayapriya-12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/jayapriya-12/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1512-number-of-good-pairs](https://github.com/jayapriya-12/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
