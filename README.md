@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jayapriya-12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/jayapriya-12/Leetcode/tree/master/0070-climbing-stairs) |
 | [1512-number-of-good-pairs](https://github.com/jayapriya-12/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/jayapriya-12/Leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
