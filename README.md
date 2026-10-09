@@ -93,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jayapriya-12/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/jayapriya-12/Leetcode/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayapriya-12/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jayapriya-12/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
