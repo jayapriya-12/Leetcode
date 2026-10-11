@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayapriya-12/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jayapriya-12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1678-goal-parser-interpretation](https://github.com/jayapriya-12/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/jayapriya-12/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
