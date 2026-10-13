@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jayapriya-12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/jayapriya-12/Leetcode/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jayapriya-12/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/jayapriya-12/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/jayapriya-12/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/jayapriya-12/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/jayapriya-12/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/jayapriya-12/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/jayapriya-12/Leetcode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
