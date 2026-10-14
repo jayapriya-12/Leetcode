@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jayapriya-12/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jayapriya-12/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/jayapriya-12/Leetcode/tree/master/0221-maximal-square) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Memoization
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/jayapriya-12/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/jayapriya-12/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jayapriya-12/Leetcode/tree/master/0228-summary-ranges) |
 | [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jayapriya-12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/jayapriya-12/Leetcode/tree/master/1323-maximum-69-number) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/jayapriya-12/Leetcode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
