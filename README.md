@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jayapriya-12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/jayapriya-12/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/jayapriya-12/Leetcode/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/jayapriya-12/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/jayapriya-12/Leetcode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/jayapriya-12/Leetcode/tree/master/0709-to-lower-case) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/jayapriya-12/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/jayapriya-12/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/jayapriya-12/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jayapriya-12/Leetcode/tree/master/0228-summary-ranges) |
@@ -121,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/jayapriya-12/Leetcode/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/jayapriya-12/Leetcode/tree/master/1323-maximum-69-number) |
 ## Matrix
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/jayapriya-12/Leetcode/tree/master/0221-maximal-square) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/jayapriya-12/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
