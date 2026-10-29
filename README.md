@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/jayapriya-12/Leetcode/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/jayapriya-12/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0791-custom-sort-string](https://github.com/jayapriya-12/Leetcode/tree/master/0791-custom-sort-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jayapriya-12/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/jayapriya-12/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/jayapriya-12/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/jayapriya-12/Leetcode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/jayapriya-12/Leetcode/tree/master/0709-to-lower-case) |
+| [0791-custom-sort-string](https://github.com/jayapriya-12/Leetcode/tree/master/0791-custom-sort-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/jayapriya-12/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jayapriya-12/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/jayapriya-12/Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jayapriya-12/Leetcode/tree/master/0179-largest-number) |
+| [0791-custom-sort-string](https://github.com/jayapriya-12/Leetcode/tree/master/0791-custom-sort-string) |
 ## Simulation
 |  |
 | ------- |
